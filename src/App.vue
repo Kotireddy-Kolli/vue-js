@@ -65,5 +65,6 @@ export default {
 }
 .rejected{
   color: red;
+  
 }
 </style>
